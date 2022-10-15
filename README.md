@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhuvanbhaskersingh" alt="bhuvanbhaskersingh" /></a> </p>
 
-- 🔭 I’m currently Studying on **Chat BKhawja Moinuddin Chishti Language University Lucknowot**
+- 🔭 I’m currently Studying on ** BKhawja Moinuddin Chishti Language University Lucknowot**
 
 - 🌱 I’m currently learning **Python,Machine Learning ,HTML,Css, Javascript,C++**
 
